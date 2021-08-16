@@ -2,15 +2,13 @@
 
 This is a supporting module for the [article I wrote](https://holdenrehg.com/blog/2021-08-16_odoo-patterns-humble-object).
 
-### Running the code
+### Running the tests
 
 You don't need any Odoo instance or database:
 
-```
+```console
 $ git clone https://github.com/holdenrehg-samples/sample_odoo_humble_object.git
-
 $ cd sample_odoo_humble_object/humble_object
-
 $ python3 -m unittest discover -s core -t . -v
 ```
 
