@@ -1,6 +1,6 @@
 ## Humble Objects in Odoo
 
-This is a supporting module for the [article I wrote](2021-08-14_odoo-patterns-humble-object.js).
+This is a supporting module for the [article I wrote](https://holdenrehg.com/blog/2021-08-16_odoo-patterns-humble-object).
 
 ### Running the code
 
